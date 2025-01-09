@@ -1,4 +1,5 @@
-# Loja-de-camisetas
-foi um trabalho do curso de analise e desenvolvimento de sistema, me ajudou bastante a exercitar uma boa logica 
-conta com camisetas no tamanho   P, M, G
-Opção de frete e retirada na fabrica 
+# T-shirt store
+
+It was a project for the system analysis and development course, it helped me a lot to practice good logic
+It has t-shirts in sizes S, M, L
+Option of shipping and pick-up at the factory
